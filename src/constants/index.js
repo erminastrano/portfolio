@@ -257,7 +257,7 @@ export const workExperiences = [
     name: 'Altenar Ltd',
     pos: 'Software Engineer Summer Intern',
     duration: ' July 2025 - September 2025',
-    title: "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
+    title: "Collaborated with company managers and executives to design a tailor-made internal company evaluation and feedback software to provide company analytics on employee and manager performance",
     icon: '/assets/altenar.jpg',
     animation: 'clapping',
   }
